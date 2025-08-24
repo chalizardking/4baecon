@@ -1,7 +1,7 @@
-# FORESAKEN - Survival Extraction Roblox Game
+# 4BAECON - Survival Extraction Roblox Game
 
 ## Overview
-FORESAKEN is a session-based survival-extraction Roblox game built according to the comprehensive PRD specifications. Players scavenge, fight, extract, upgrade, and repeat in intense 12-18 minute sessions.
+4BAECON is a session-based survival-extraction Roblox game built according to the comprehensive PRD specifications. Players scavenge, fight, extract, upgrade, and repeat in intense 12-18 minute sessions.
 
 ## 🎯 Core Features
 - **Session-based gameplay**: 12-18 minute matches
